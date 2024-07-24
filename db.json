@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "value": "It is 24th July 2024"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "PandoraBank"
   }
 }
